@@ -1,6 +1,6 @@
-# Standvirtual Web scrapper
+# Standvirtual Web scraper
 
-Web scrapper for the car sales website standvirtual.com, using the `requests` lib and `beautifulsoup` parser.
+Web scraper for the car sales website standvirtual.com, using the `requests` lib and `beautifulsoup` parser.
 
 ## Installation
 ```bash
